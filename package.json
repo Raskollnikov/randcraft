@@ -1,0 +1,26 @@
+{
+  "name": "randcraft",
+  "version": "1.0.1",
+  "description": "A utility library for generating random numbers, strings, and validating phone numbers across various formats.",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "random",
+    "utilities",
+    "numbers",
+    "strings",
+    "phone",
+    "validation"
+  ],
+  "author": "Arsen Akhalaia <bakhalia56@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Raskollnikov"
+  },
+  "devDependencies": {
+    "jest": "^29.0.0"
+  }
+}
