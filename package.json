@@ -1,6 +1,6 @@
 {
   "name": "randcraft",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A utility library for generating random numbers, strings, and validating phone numbers across various formats.",
   "main": "lib/index.js",
   "scripts": {
